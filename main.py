@@ -13,4 +13,4 @@ print(f"Seu número: {numero}"+"\n")
 print("-Seu número: "+str(numero))
 print("-seu número: {}".format(numero))
 
-print("Seu número e palavras: "+palavra+f" e {numero}")
+print("\nSeu número e palavras: "+palavra+f" e {numero}")
