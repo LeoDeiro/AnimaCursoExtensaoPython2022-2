@@ -1,4 +1,8 @@
 # Python o começo
 
 #print("")
-print("Hello World!")
+print("Hello World!\n")
+
+palavra = "Olá"
+
+print("Sua palavra: "+palavra+"\n")
