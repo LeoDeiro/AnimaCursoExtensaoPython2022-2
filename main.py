@@ -10,9 +10,14 @@ idade = int(input("\nDigite sua idade: "))
 print("Sua idade é {}".format(idade))
 
 dobro = idade * 2
-
 print("O dobro da sua idade é {}".format(dobro))
 
+#if condicional
+
+if (idade >= 18):
+  print("Você é maior de idade.")
+else:
+  print("Você é menor de idade.")
 print(30*"-")
 numero1 = int(input("Digite um número: "))
 numero2 = int(input("Digite outro número: "))
