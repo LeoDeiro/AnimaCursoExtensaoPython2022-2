@@ -15,14 +15,14 @@ genero = input("Informe seu gênero M para masculino e F para feminino: ")
 dobro = idade * 2
 print("O dobro da sua idade é {}".format(dobro))
 '''
+
 #if condicional
 
 if (idade >= 18):
   print("Você é maior de idade.")
   if(genero == "M"):
-    print("Você deverá se alistar!")
+    print("Você precisa/precisou se alistar!")
 else:
   print("Você é menor de idade.")
-print(30*"-")
 
-
+#and or = && ||
