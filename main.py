@@ -27,3 +27,4 @@ multi = numero1 * numero2
 
 print("\nA soma destes números é: {}".format(soma))
 print("A multiplicação destes números é: {}".format(multi))
+#
